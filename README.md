@@ -2,6 +2,12 @@
 
 Welcome to the Molecular Dynamics Simulation Beginner Tutorial! This repository is designed to help you kickstart your journey into the fascinating world of molecular dynamics (MD) simulations. With an easy-to-follow Jupyter notebook provided in this repository, you'll learn the basics of setting up, and running MD simulations for a protein-small molecule complex using OpenMM a versatile and powerful library for molecular simulations.
 
+Building upon the original Open Force Field Toolkit tutorial*, this presentation introduces advanced techniques for preparing Molecular Dynamics simulation. Our enhancements focus on extending the core material to include:
+
+Temperature and Pressure Equilibration: A critical step for realistic simulations, ensuring the system reaches a stable state that mimics real-world conditions. Custom Reporter for Intermediate Simulation Results: An added feature to save and analyze simulation data at various stages, providing insights into running simulation. We thank the creators of the original tutorial for their foundational work. Our additions aim to enrich the learning experience, offering participants a more comprehensive understanding of Molecular Dynamics simulations within a notebook environment.
+
+Enjoy the expanded exploration and the new tools at your disposal! *Original Notebook: https://github.com/openforcefield/openff-toolkit/blob/main/examples/toolkit_showcase/toolkit_showcase.ipynb
+
 ## Features
 
 - **Introduction to Molecular Dynamics:** Understand the fundamental concepts behind MD simulations.

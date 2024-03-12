@@ -18,26 +18,7 @@ Enjoy the expanded exploration and the new tools at your disposal! *Original Not
 
 ## Getting Started
 
-To get started, you'll need to have Python installed on your system along with Jupyter notebooks. The notebook is designed to run in Google Colab, which provides a free cloud-based environment, allowing you to follow along without any local setup. However, instructions are also provided for setting up and running the simulations on your local machine.
-
-### Prerequisites
-
-- Python 3.x
-- Jupyter Notebook or Google Colab
-- OpenMM & OpenFF library
-
-### Installation
-
-1. Clone this repository to your local machine or open it directly in Google Colab using the link provided.
-2. If running locally, create a Python virtual environment and activate it:
-   ```bash
-   python -m venv mdenv
-   source mdenv/bin/activate
-   ```
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+To get started, you'll need to access Google Colab, which provides a free cloud-based environment, allowing you to follow along without any local setup.
 
 ## Usage
 
